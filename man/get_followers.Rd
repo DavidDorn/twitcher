@@ -4,7 +4,7 @@
 \alias{get_followers}
 \title{gets the current followers of a given Twitch user as identified by its user-id}
 \usage{
-get_followers(client_id, user_id, max_requests = 10)
+get_followers(client_id, user_id, max_requests = 10, pull_all = F)
 }
 \arguments{
 \item{client_id}{A Twitch API client id}
@@ -12,6 +12,8 @@ get_followers(client_id, user_id, max_requests = 10)
 \item{user_id}{A Twitch user id}
 
 \item{max_requests}{The max number of requests you want to send (each request returns a maxiumum of 100 followers)}
+
+\item{pull_all}{Boolean: try to collect all followers or not}
 }
 \value{
 A dataframe containing the current information for followers of a Twitch user.
