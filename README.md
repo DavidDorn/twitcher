@@ -27,7 +27,7 @@ Fetches all tags used by twitch.tv. [API reference](https://dev.twitch.tv/docs/a
 ### get_stream_tags
 Fetches the tags of a given stream (as identified by user-id of a user currently broadcasting). [API reference](https://dev.twitch.tv/docs/api/reference#get-stream-tags)
 
-### get activ_user_extensions
+### get active_user_extensions
 
 [API reference](https://dev.twitch.tv/docs/api/reference#get-user-active-extensions)
 
