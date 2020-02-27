@@ -1,4 +1,4 @@
-# pkgdown <img src="man/figures/hexsticker.png" align="right" />
+
 
 # twitcher - R wrapper functions for the [twitch.tv](http://twitch.tv) API
 
