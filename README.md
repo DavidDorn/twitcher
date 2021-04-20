@@ -2,7 +2,7 @@
 
 # twitcher - R wrapper functions for the [twitch.tv](http://twitch.tv) API
 
-This package contains a bunch of functions to interact with the New [twitch.tv](http://twitch.tv) API ("helix") that I wrote for my PhD research. It is currently limited to endpoints useful for data gathering purposes (i.e. collection of current top streams, retreiving game and user info, collecting followers of a given account etc.), as this is what I'm using for my own research.
+This package contains a bunch of functions to interact with the New [twitch.tv](http://twitch.tv) API ("helix") that I wrote for my PhD research. It is currently limited to endpoints useful for data gathering purposes (i.e. collection of current top streams, retrieving game and user info, collecting followers of a given account etc.), as this is what I'm using for my own research.
 
 
 ## Authentification
